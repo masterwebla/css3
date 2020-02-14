@@ -1,0 +1,16 @@
+.rojo{
+	height: 150px;
+	width: 150px;
+	background-color: red;
+	border: 2px solid green;
+}
+
+#primerDiv{
+	height: 2000px;
+}
+
+#movido{
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+}

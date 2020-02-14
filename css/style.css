@@ -1,0 +1,19 @@
+body{
+	margin: 0.5in; /* media pulgada, pulgada = 2.54cm */
+}
+
+h1{
+	line-height: 2cm;
+}
+
+p{
+	word-spacing: 4mm;
+}
+
+a{
+	font-size: 18pt;
+}
+
+span{
+	font-size: 2pc;
+}

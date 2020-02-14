@@ -1,0 +1,7 @@
+ul{
+	list-style-image: url("../imagenes/ok.png");
+}
+
+ol{
+	list-style-type: lower-latin;
+}

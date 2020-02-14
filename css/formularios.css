@@ -1,0 +1,37 @@
+form{
+	width: 30%;
+	border: 1px solid #CCC;
+	margin: 20px;
+	padding: 20px;
+}
+
+label{
+	font-size: 12px;
+	display: block;
+}
+
+textarea{
+	resize: vertical;
+	max-height: 300px;
+	min-height: 100px;
+}
+
+input, textarea{
+	margin-bottom: 20px;
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+	border: 1px solid #CCC;
+}
+
+input[type="submit"]{
+	margin-bottom: 0px;
+	background-color: #48BC23;
+	color: #FFF;
+	border: none;
+}
+
+input[type="submit"]:hover{
+	background-color: #52D528;
+	cursor: pointer;
+}
